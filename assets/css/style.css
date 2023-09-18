@@ -1,0 +1,104 @@
+:root {
+    /* /font-size/ */
+    --fs-14: 14px;
+    --fs-16: 16px;
+    --fs-18: 18px;
+    --fs-20: 20px;
+    --fs-22: 22px;
+    --fs-25: 25px;
+    --fs-30: 30px;
+    --fs-50: 50px;
+    --fs-70: 70px;
+
+    /* /font-family/ */
+    --ff-poppins: 'poppins', 'sans-serif';
+    --ff-montserrat: 'montserrat', 'sans-serif';
+
+    /* font weights */
+    --fw-700: 700;
+    --fw-600: 600;
+    --fw-500: 500;
+    --fw-400: 400;
+
+    /* / colors */ 
+    --f-white: #FFFFFF;
+    --f-dgreen: #031227;
+    --f-dblue: #000A1A;
+    --f-blue: #001D49;
+    --f-skyblue: #009DFF;
+    --f-gray: #4F5665;
+    --f-gray2:  #b2b5ba;
+}
+
+.fs-20 {
+    font-size: var(--fs-20);
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fs-70 {
+    font-size: var(--fs-70);
+}
+
+.fw-700 {
+    font-weight: var(--fw-700);
+}
+
+.fs-16 {
+    font-size: var(--fs-16);
+}
+
+.f-white {
+    color: var(--f-white) !important;
+}
+
+.pr-40 {
+    padding-right: 40px;
+}
+.blur{
+    height: 500px;
+    background: linear-gradient(180deg, rgba(0, 10, 26, 0.00) 0%, #000A1A 100%);
+}
+.pl-30 {
+    padding-left: 30px;
+}
+
+.fs-50 {
+    font-size: var(--fs-50);
+}
+
+.mt-270 {
+    margin-top: 270px;
+}
+
+.mt-75 {
+    margin-top: 75px !important;
+}
+
+.p-32 {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.mt-100 {
+    margin-top: 100px !important;
+}
+
+.w-55 {
+    width: 55px;
+    height: 55px;
+}
+
+.fs-25 {
+    font-size: var(--fs-25);
+}
+
+.gap-36 {
+    gap: 36px;
+}
+
+.color {
+    color: var(--f-gray);
+}
