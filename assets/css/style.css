@@ -172,7 +172,6 @@
     background-image: url(../images/Vector.png) !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
-
 }
 
 .bg-dblue {
@@ -228,8 +227,8 @@
     fill: #0d00ff;
 }
 
-@media (min-width:992px) {
-    .mt-lg-75 {
+@media (min-width:768px) {
+    .mt-md-75 {
         margin-top: 75px !important;
     }
 }
