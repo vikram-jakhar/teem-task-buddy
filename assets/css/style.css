@@ -43,7 +43,9 @@
     --f-gray: #4F5665;
     --f-gray2: #b2b5ba;
 }
-
+.f-gray2{
+    color: var(--f-gray2);
+}
 
 .fs-20 {
     font-size: var(--fs-20);
