@@ -140,8 +140,7 @@
     color: var(--f-white);
     background-image: url(../images/Vector.svg) !important;
     background-repeat: no-repeat;
-    background-size: var(--bs-accordion-btn-icon-width);
-    transition: var(--bs-accordion-btn-icon-transition);
+    background-size: var(--bs-accordion-btn-icon-width);    
 }
 
 .f-color {
